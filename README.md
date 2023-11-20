@@ -1,4 +1,4 @@
-# proyecto
+# Pryecto: el prgrama para falcitar el proceso de aviso, lista, y pago de residencia.
 
 Este proyecto es para ayudar a las personas que se encargan de la gestión de la residencia en nuestro campus. Hay prefectos que se encargan de cada uno de los pisos. Su deber es comprobar si los residentes están en sus habitaciones a las 10:20 tocando las puertas. Además, si los residentes no regresan antes de las 10:30, tienen que sacar el aviso y cuando lleguen tienen que decir a las personas de la recepción que ya han llegado. 
 
