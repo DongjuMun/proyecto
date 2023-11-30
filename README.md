@@ -4,10 +4,6 @@ Este proyecto es para ayudar a las personas que se encargan de la gestión de la
 
 Para que las personas que se encargan de esto puedan hacerlos de manera fácil, de los trabajos que tienen ellos, voy a crear un programa que tiene una funcion que pueden ayudarles. La función es para checar el monto total de pago y el prefecto puede ingresar el numero de habitacion y checar los datos del residente y al final el programa imprime el monto total que el residente tiene que pagar. 
 
-<img width="449" alt="image" src="https://github.com/DongjuMun/proyecto/assets/150094637/1e968627-3cf3-43f9-8fdf-f93cc234033d">
-
-
-
 <img width="445" alt="image" src="https://github.com/DongjuMun/proyecto/assets/150094637/483bb1f9-f988-459f-a1e7-ca88b4b9b644">
 https://drive.google.com/file/d/1qCcJ1d9q6THF63YxdEB8U6v0XtB7gZAD/view?usp=sharing
 
